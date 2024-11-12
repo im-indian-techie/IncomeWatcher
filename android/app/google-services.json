@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "977506234537",
+    "project_id": "react-native-training-16827",
+    "storage_bucket": "react-native-training-16827.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977506234537:android:9e57a8a89ae9d873fc79b8",
+        "android_client_info": {
+          "package_name": "com.incomewatcher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXQVb7U25E-LjpizP4WibJYFztqmTaLfk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
